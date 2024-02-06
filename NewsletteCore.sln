@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsletteCore", "NewsletteCore.csproj", "{EC274D3E-611B-4DB3-82A7-A2A9722C3535}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC274D3E-611B-4DB3-82A7-A2A9722C3535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC274D3E-611B-4DB3-82A7-A2A9722C3535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC274D3E-611B-4DB3-82A7-A2A9722C3535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC274D3E-611B-4DB3-82A7-A2A9722C3535}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87D6ED94-1F32-4695-96CB-A5A5E4B82B2A}
+	EndGlobalSection
+EndGlobal
